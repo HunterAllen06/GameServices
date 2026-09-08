@@ -1,3 +1,4 @@
+[DISCLAIMER](https://gist.github.com/HunterAllen06/100914a4aeb15675c98dd71db1362fa6)
 # GameServices
 A simple system that sort of acts as a replacement/substitute for static Instances.
 ```cs
